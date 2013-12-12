@@ -1,0 +1,4 @@
+exchangecoin
+============
+
+Cryptocurrency coin
